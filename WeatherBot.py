@@ -102,7 +102,7 @@ class WeatherBot:
         }
 
         try:
-            q = f"http://api.weatherapi.com/v1/forecast.json?key={self.keys['wapi']}&days={self.days}&aqi=no&alerts" \
+            q = f"https://api.weatherapi.com/v1/forecast.json?key={self.keys['wapi']}&days={self.days}&aqi=no&alerts" \
                 f"=no&lang=de&q=" + coords
             r = requests.get(q).json()
             for i in range(self.days):

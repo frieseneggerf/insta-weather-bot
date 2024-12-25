@@ -1,0 +1,231 @@
+{
+  "bots": [
+    {
+      "username": "wetter.am.see",
+      "password": "**********",
+      "totp_secret": "**********",
+      "pretty_name": "Wetter am See",
+      "user_tag": "@Wetter.am.See",
+      "path": "starnbergersee",
+      "water_url": "starnberg-16663002",
+      "location": {
+        "name": "Starnberger See",
+        "lat": 47.9092703,
+        "lon": 11.3083626
+      },
+      "cities": [
+        {
+          "name": "Tutzing",
+          "latlon": "47.9086611,11.2798274",
+          "position": [
+            870,
+            1264
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -80
+          ]
+        },
+        {
+          "name": "Feldafing",
+          "latlon": "47.9466714,11.2905374",
+          "position": [
+            982,
+            930
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -80
+          ]
+        },
+        {
+          "name": "Starnberg",
+          "latlon": "48.0001038,11.3508972",
+          "position": [
+            1256,
+            492
+          ],
+          "folding": "l",
+          "offset": [
+            -100,
+            -60
+          ]
+        },
+        {
+          "name": "Berg",
+          "latlon": "47.9670867,11.3545409",
+          "position": [
+            1304,
+            779
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Ammerland",
+          "latlon": "47.9027054,11.3338797",
+          "position": [
+            1208,
+            1330
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Ambach",
+          "latlon": "47.8674587,11.33568",
+          "position": [
+            1200,
+            1615
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Seeshaupt",
+          "latlon": "47.8228233,11.3013554",
+          "position": [
+            1002,
+            2024
+          ],
+          "folding": "l",
+          "offset": [
+            -100,
+            -140
+          ]
+        },
+        {
+          "name": "Bernried",
+          "latlon": "47.8626737,11.2883498",
+          "position": [
+            945,
+            1644
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -80
+          ]
+        }
+      ]
+    },
+    {
+      "username": "wetter.am.ammersee",
+      "password": "**********",
+      "totp_secret": "**********",
+      "pretty_name": "Wetter am Ammersee",
+      "user_tag": "@Wetter.am.Ammersee",
+      "path": "ammersee",
+      "water_url": "stegen-16602008",
+      "location": {
+        "name": "Ammersee See",
+        "lat": 48.0062795,
+        "lon": 11.1196973
+      },
+      "cities": [
+        {
+          "name": "Inning",
+          "latlon": "48.0767581,11.1536975",
+          "position": [
+            1246,
+            589
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Breitbrunn",
+          "latlon": "48.0349782,11.1368392",
+          "position": [
+            1213,
+            1023
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Herrsching",
+          "latlon": "47.9982208,11.1744911",
+          "position": [
+            1471,
+            1434
+          ],
+          "folding": "r",
+          "offset": [
+            70,
+            -80
+          ]
+        },
+        {
+          "name": "Dießen",
+          "latlon": "47.9496237,11.0949971",
+          "position": [
+            1003,
+            1956
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -120
+          ]
+        },
+        {
+          "name": "Riederau",
+          "latlon": "47.9843109,11.0918497",
+          "position": [
+            916,
+            1591
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -80
+          ]
+        },
+        {
+          "name": "Utting",
+          "latlon": "48.0263785,11.0843919",
+          "position": [
+            906,
+            1128
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -80
+          ]
+        },
+        {
+          "name": "Schondorf",
+          "latlon": "48.05248260498047,11.09125804901123",
+          "position": [
+            912,
+            840
+          ],
+          "folding": "l",
+          "offset": [
+            -70,
+            -120
+          ]
+        }
+      ]
+    }
+  ]
+}

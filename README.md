@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/Project_Summary-here-blue)](https://friesenegger.xyz/projects/insta-weather-bot/)
 
 
-<a href="[http://example.com/](https://friesenegger.xyz/projects/insta-weather-bot/)" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Project_Summary-here-blue"></a>
+<a href="https://friesenegger.xyz/projects/insta-weather-bot/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Project_Summary-here-blue"></a>
 
 A python project to run a bot that posts weather forecast and water temperature for a defined lake.
 

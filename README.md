@@ -1,6 +1,6 @@
 
 # Instagram Weather Bot
-[![Static Badge](https://img.shields.io/badge/Blog_Post-blue)](https://friesenegger.xyz/projects/insta-weather-bot/)
+[![Static Badge](https://img.shields.io/badge/Blog_Post-blue)](https://friesenegger.xyz/projects/insta-weather-bot/){:target="_blank"}
 
 A python project to run a bot that posts weather forecast and water temperature for a defined lake.
 
